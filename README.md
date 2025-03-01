@@ -1,11 +1,11 @@
 ![logo](https://github.com/voidkunal/voidkunal/blob/main/Github.png)
 <h1 align="center">Hi 👋, Myself Kunal Mandal</h1>
-<h3 align="center">I’m an Ex Intern @SeeUp Tech, specializing in Data Analysis and AI & ML, with advanced Python skills.</h3>
+<h3 align="center"> Ex Intern @SeeUp Tech, specializing in Data Analysis and AI & ML, with advanced Python skills.</h3>
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RzaWp3cWl3c3VxMXZ3eWEzajAwanlscXduZmFwcHVnOWJ6Y3JzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=voidkunal&label=Profile%20views&color=0e75b6&style=flat" alt="voidkunal" /> </p>
 
-- 🔭 I’m Ex Intern  @[SeeUp Tech](https://seeup.tech)
+- 🔭  Ex Intern  @[SeeUp Tech](https://seeup.tech)
 
 - 🌱 I’m currently learning **Full Stack, Data Science & DSA in C++.**
 
